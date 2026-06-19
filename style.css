@@ -51,7 +51,7 @@
 
 .problema-titulo{
   font-size: 3rem;
-  color: aquamarine;
+  color: rgb(78, 215, 112);
   line-height: 1.2;
   margin-bottom: 20px;
 }
@@ -74,4 +74,8 @@
   height: auto;
   border-radius: 12px;
   box-shadow: 0 8px 24px gray;
+}
+
+.rodape{
+  text-align: center;
 }
